@@ -1,3 +1,5 @@
+**DEPRECATED**: it's been a while and a bunch of things have changed since then. I will update this guide soon.
+
 # Federate two magnum kubernetes v1.7 clusters
 This document describes the process of federating two kubernetes v1.7.1 clusters created by OpenStack Magnum. We are going to use CoreDNS as DNS provider for the Federation Control Plane (FCP, hereafter).
 
